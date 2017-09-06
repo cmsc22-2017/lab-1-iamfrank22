@@ -1,2 +1,1 @@
-# lab-1-iamfrank22
-# lab-1-iamfrank22
+Machine Problems/Laboratory Works in Object-Oriented Programming (CMSC 22)
